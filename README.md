@@ -1,6 +1,4 @@
-# weatherApp
-
-### Weather App with GUI
+# Weather App with GUI
 Developed a Java-based weather application with a user-friendly Graphical User Interface (GUI) to provide weather information based on user-inputted locations. 
 This app displays information such as weather conditions, temperature, humidity, and wind speeds.
 Utilized Java Swing for GUI development, creating an interactive and visually appealing user interface.
